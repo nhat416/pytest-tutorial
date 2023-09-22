@@ -1,0 +1,55 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyBehaveInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyCompatibilityInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ourVersions">
+        <value>
+          <list size="5">
+            <item index="0" class="java.lang.String" itemvalue="3.6" />
+            <item index="1" class="java.lang.String" itemvalue="3.7" />
+            <item index="2" class="java.lang.String" itemvalue="3.8" />
+            <item index="3" class="java.lang.String" itemvalue="3.9" />
+            <item index="4" class="java.lang.String" itemvalue="3.10" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyMandatoryEncodingInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyMissingOrEmptyDocstringInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyMissingTypeHintsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="25">
+            <item index="0" class="java.lang.String" itemvalue="bs4" />
+            <item index="1" class="java.lang.String" itemvalue="joblib" />
+            <item index="2" class="java.lang.String" itemvalue="PyYAML" />
+            <item index="3" class="java.lang.String" itemvalue="psycopg2" />
+            <item index="4" class="java.lang.String" itemvalue="pycodestyle" />
+            <item index="5" class="java.lang.String" itemvalue="troposphere" />
+            <item index="6" class="java.lang.String" itemvalue="w3lib" />
+            <item index="7" class="java.lang.String" itemvalue="selenium" />
+            <item index="8" class="java.lang.String" itemvalue="lxml" />
+            <item index="9" class="java.lang.String" itemvalue="soupsieve" />
+            <item index="10" class="java.lang.String" itemvalue="urllib3" />
+            <item index="11" class="java.lang.String" itemvalue="beautifulsoup4" />
+            <item index="12" class="java.lang.String" itemvalue="cfn-flip" />
+            <item index="13" class="java.lang.String" itemvalue="autopep8" />
+            <item index="14" class="java.lang.String" itemvalue="six" />
+            <item index="15" class="java.lang.String" itemvalue="botocore" />
+            <item index="16" class="java.lang.String" itemvalue="click" />
+            <item index="17" class="java.lang.String" itemvalue="pandas" />
+            <item index="18" class="java.lang.String" itemvalue="boto3" />
+            <item index="19" class="java.lang.String" itemvalue="parsel" />
+            <item index="20" class="java.lang.String" itemvalue="s3transfer" />
+            <item index="21" class="java.lang.String" itemvalue="scrape-linkedin" />
+            <item index="22" class="java.lang.String" itemvalue="install" />
+            <item index="23" class="java.lang.String" itemvalue="configparser" />
+            <item index="24" class="java.lang.String" itemvalue="cssselect" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
